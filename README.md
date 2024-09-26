@@ -1,6 +1,6 @@
 # API Node JS
 
-Api de CRUD de Usuário.
+Api CRUD de Usuário.
 
 ## Tecnologias Utilizadas
 
